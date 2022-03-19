@@ -47,7 +47,6 @@ while True:
     except ZeroDivisionError:
         print(f'\n\tПопытка деления на ноль!\n')
 
-
 amount = sum_two_fractions(fraction1, fraction2)
 difference = difference_two_fractions(fraction1, fraction2)
 products = multiply_two_fractions(fraction1, fraction2)
