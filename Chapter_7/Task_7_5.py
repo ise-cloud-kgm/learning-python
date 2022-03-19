@@ -54,7 +54,6 @@ quotient = division_two_fractions(fraction1, fraction2)
 maxValue = max(amount, difference, products, quotient)
 minValue = min(amount, difference, products, quotient)
 
-
 print(f'\nСумма дробей: {amount}')
 print(f'Разница дробей: {difference}')
 print(f'Произведение дробей: {products}')
